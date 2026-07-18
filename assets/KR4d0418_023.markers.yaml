@@ -26,6 +26,7 @@ markers:
   - {type: indent, offset: 7, content: 　　, id: KR4d0418_krp_023-bkkind3}
   - {type: punctuation, offset: 11, content: (, id: KR4d0418_krp_023-bkkpn1}
   - {type: variant, offset: 11, length: 1, content: 中, WYG: ''}
+  - {type: voice, offset: 11, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 12, content: ), id: KR4d0418_krp_023-bkkpn2}
   - {type: 'kr:newline', offset: 12, content: '
 
@@ -336,6 +337,7 @@ markers:
   - {type: substitution, offset: 718, original: 艶, replacement: 艷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20619}}
   - {type: punctuation, offset: 721, content: (, id: KR4d0418_krp_023-bkkpn3}
   - {type: variant, offset: 721, length: 6, content: 今監本無此句, WYG: ''}
+  - {type: voice, offset: 721, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 724, content: /, id: KR4d0418_krp_023-bkkpn4}
   - {type: punctuation, offset: 727, content: ), id: KR4d0418_krp_023-bkkpn5}
   - {type: variant, offset: 732, length: 1, content: 寵, SBCK: 􅃂}
@@ -660,6 +662,7 @@ markers:
   - {type: substitution, offset: 1497, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: punctuation, offset: 1504, content: (, id: KR4d0418_krp_023-bkkpn6}
   - {type: variant, offset: 1504, length: 6, content: 今監本無涯字, WYG: ''}
+  - {type: voice, offset: 1504, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 1507, content: /, id: KR4d0418_krp_023-bkkpn7}
   - {type: punctuation, offset: 1510, content: ), id: KR4d0418_krp_023-bkkpn8}
   - {type: substitution, offset: 1511, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
@@ -1466,4 +1469,4 @@ markers:
 
       ', id: KR4d0418_krp_023-bkkkrnewl222}
   back: []
-hash: sha256:f53748b968025b7a9d1de78f8e9182442a0e553120e0b6f792617736291ff041
+hash: sha256:97f501ed9257da4cabb20c31e848b23c03a02236b544698a6a6df7372484c349

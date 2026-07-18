@@ -255,6 +255,7 @@ markers:
   - {type: line-break, offset: 551, content: '', id: KR4d0418_SBCK_046-3a03}
   - {type: indent, offset: 551, content: 　, id: KR4d0418_krp_046-bkkind8}
   - {type: punctuation, offset: 554, content: (, id: KR4d0418_krp_046-bkkpn1}
+  - {type: voice, offset: 554, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 556, content: ), id: KR4d0418_krp_046-bkkpn2}
   - {type: 'kr:newline', offset: 556, content: '
 
@@ -329,6 +330,7 @@ markers:
   - {type: indent, offset: 680, content: 　　, id: KR4d0418_krp_046-bkkind11}
   - {type: variant, offset: 681, length: 1, content: 寄, SBCK: 􅀉}
   - {type: punctuation, offset: 682, content: (, id: KR4d0418_krp_046-bkkpn3}
+  - {type: voice, offset: 682, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 684, content: ), id: KR4d0418_krp_046-bkkpn4}
   - {type: 'kr:newline', offset: 684, content: '
 
@@ -371,6 +373,7 @@ markers:
   - {type: line-break, offset: 742, content: '', id: KR4d0418_SBCK_046-4a02}
   - {type: indent, offset: 742, content: 　　, id: KR4d0418_krp_046-bkkind13}
   - {type: punctuation, offset: 744, content: (, id: KR4d0418_krp_046-bkkpn5}
+  - {type: voice, offset: 744, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 746, content: ), id: KR4d0418_krp_046-bkkpn6}
   - {type: 'kr:newline', offset: 746, content: '
 
@@ -503,6 +506,7 @@ markers:
   - {type: line-break, offset: 950, content: '', id: KR4d0418_SBCK_046-5a04}
   - {type: indent, offset: 950, content: 　　, id: KR4d0418_krp_046-bkkind19}
   - {type: punctuation, offset: 957, content: (, id: KR4d0418_krp_046-bkkpn7}
+  - {type: voice, offset: 957, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 963, content: ), id: KR4d0418_krp_046-bkkpn8}
   - {type: 'kr:newline', offset: 963, content: '
 
@@ -543,4 +547,4 @@ markers:
 
       ', id: KR4d0418_krp_046-bkkkrnewl82}
   back: []
-hash: sha256:1f03fcb2b68776d7ed43460de9c65635004fcb1082b4936b6688bd55b4ae3f61
+hash: sha256:57cb43c3c8171889c31c917b2540789711c1ebd056cf393075a1ffdb913e5542

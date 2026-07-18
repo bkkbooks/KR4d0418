@@ -26,6 +26,7 @@ markers:
   - {type: indent, offset: 7, content: 　　, id: KR4d0418_krp_006-bkkind2}
   - {type: punctuation, offset: 11, content: (, id: KR4d0418_krp_006-bkkpn1}
   - {type: variant, offset: 11, length: 1, content: 三, WYG: ''}
+  - {type: voice, offset: 11, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 12, content: ), id: KR4d0418_krp_006-bkkpn2}
   - {type: 'kr:newline', offset: 12, content: '
 
@@ -1186,6 +1187,7 @@ markers:
   - {type: page-break, offset: 2956, content: '', id: KR4d0418_WYG_006-11a, image: WYG1190/WYG1190-0312c.png}
   - {type: punctuation, offset: 2957, content: (, id: KR4d0418_krp_006-bkkpn3}
   - {type: variant, offset: 2957, length: 9, content: 魯哀姜下不接有脱字, WYG: ''}
+  - {type: voice, offset: 2957, length: 9, name: note, id: n2}
   - {type: substitution, offset: 2959, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 2962, content: /, id: KR4d0418_krp_006-bkkpn4}
   - {type: substitution, offset: 2964, original: 脱, replacement: 脫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19795}}
@@ -1560,4 +1562,4 @@ markers:
 
       ', id: KR4d0418_krp_006-bkkkrnewl232}
   back: []
-hash: sha256:ecf4540a05665eeed0caa993a7fe20dac43da814ceaf2d114780e8bc1ab774ba
+hash: sha256:e4b1cdd428101b85729b64c18f922a332ef843c5997297d363baf1bf3762d7ac

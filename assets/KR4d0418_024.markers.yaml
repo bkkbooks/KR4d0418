@@ -25,6 +25,7 @@ markers:
   - {type: indent, offset: 7, content: 　　, id: KR4d0418_krp_024-bkkind2}
   - {type: punctuation, offset: 11, content: (, id: KR4d0418_krp_024-bkkpn1}
   - {type: variant, offset: 11, length: 1, content: 下, WYG: ''}
+  - {type: voice, offset: 11, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 12, content: ), id: KR4d0418_krp_024-bkkpn2}
   - {type: 'kr:newline', offset: 12, content: '
 
@@ -258,6 +259,7 @@ markers:
   - {type: variant, offset: 532, length: 1, content: 修, WYG: 脩}
   - {type: variant, offset: 537, length: 9, content: 岸謂李石載仇士良傳, WYG: 望}
   - {type: punctuation, offset: 538, content: (, id: KR4d0418_krp_024-bkkpn3}
+  - {type: voice, offset: 538, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 540, content: /, id: KR4d0418_krp_024-bkkpn4}
   - {type: punctuation, offset: 542, content: ), id: KR4d0418_krp_024-bkkpn5}
   - {type: 'kr:newline', offset: 542, content: '
@@ -277,6 +279,7 @@ markers:
   - {type: substitution, offset: 566, original: 覇, replacement: 霸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17827}}
   - {type: punctuation, offset: 568, content: (, id: KR4d0418_krp_024-bkkpn9}
   - {type: variant, offset: 568, length: 6, content: 舊唐書作郭覇, WYG: ''}
+  - {type: voice, offset: 568, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 571, content: /, id: KR4d0418_krp_024-bkkpn10}
   - {type: substitution, offset: 573, original: 覇, replacement: 霸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17827}}
   - {type: punctuation, offset: 574, content: ), id: KR4d0418_krp_024-bkkpn11}
@@ -1131,6 +1134,7 @@ markers:
   - {type: substitution, offset: 2395, original: 勁, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20194}}
   - {type: punctuation, offset: 2397, content: (, id: KR4d0418_krp_024-bkkpn12}
   - {type: variant, offset: 2397, length: 6, content: 今監本作梗挺, WYG: ''}
+  - {type: voice, offset: 2397, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 2400, content: /, id: KR4d0418_krp_024-bkkpn13}
   - {type: punctuation, offset: 2403, content: ), id: KR4d0418_krp_024-bkkpn14}
   - {type: 'kr:newline', offset: 2406, content: '
@@ -1705,4 +1709,4 @@ markers:
 
       ', id: KR4d0418_krp_024-bkkkrnewl232}
   back: []
-hash: sha256:46863af84ec8f2aba8a1f8489d77f3933e3f84c8c3c9446022e992599f908081
+hash: sha256:c96750376976e04222a58febc806ba201bf1aca3609d1e16ab582c4e9e309e64

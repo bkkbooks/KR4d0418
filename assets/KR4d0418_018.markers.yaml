@@ -27,6 +27,7 @@ markers:
   - {type: indent, offset: 7, content: 　　, id: KR4d0418_krp_018-bkkind3}
   - {type: punctuation, offset: 11, content: (, id: KR4d0418_krp_018-bkkpn1}
   - {type: variant, offset: 11, length: 1, content: 十, WYG: ''}
+  - {type: voice, offset: 11, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 12, content: ), id: KR4d0418_krp_018-bkkpn2}
   - {type: 'kr:newline', offset: 12, content: '
 
@@ -144,10 +145,12 @@ markers:
   - {type: variant, offset: 290, length: 1, content: 隙, SBCK: 􅂩}
   - {type: punctuation, offset: 292, content: (, id: KR4d0418_krp_018-bkkpn3}
   - {type: variant, offset: 292, length: 6, content: 監本史紀作耶, WYG: ''}
+  - {type: voice, offset: 292, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 295, content: /, id: KR4d0418_krp_018-bkkpn4}
   - {type: punctuation, offset: 298, content: ), id: KR4d0418_krp_018-bkkpn5}
   - {type: punctuation, offset: 300, content: (, id: KR4d0418_krp_018-bkkpn6}
   - {type: variant, offset: 300, length: 4, content: 監本作備, WYG: ''}
+  - {type: voice, offset: 300, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 302, content: /, id: KR4d0418_krp_018-bkkpn7}
   - {type: punctuation, offset: 304, content: ), id: KR4d0418_krp_018-bkkpn8}
   - {type: variant, offset: 305, length: 1, content: 歳, WYG: 嵗}
@@ -457,4 +460,4 @@ markers:
 
       ', id: KR4d0418_krp_018-bkkkrnewl68}
   back: []
-hash: sha256:f9f276c369a4a8660367cbb3ea14307feda38a6a020217f083f96830de75730e
+hash: sha256:d604f8c724de0e92c08090dca48e8f6b129200fbd82a6ec3d1e75bafae6ad2f6
